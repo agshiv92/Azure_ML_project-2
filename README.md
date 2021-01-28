@@ -9,9 +9,15 @@
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/Azure%20ML%20Project%202.jpg)
 ## Key Steps
 ## Step 1: Automated ML Experiment
-In the first step we are getting the data to Azure Machine Learning 
-We are giving the job of determing the best model to Azure Auto ML 
+In the first step we are getting the data to Azure Machine Learning
+![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/Step1.JPG)
+
+We are giving the job of determing the best model to Azure Auto ML
+![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/Step2.JPG)
+
 Once the run of Auto ML is completed we can check the final model and accuracy of the model 
+![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/Step3.JPG)
+
 ## Step 2: Deploy the best model
 ## Step 3: Enable App Insights & Logging
 
