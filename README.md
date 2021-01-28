@@ -1,9 +1,9 @@
 *NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
 
 
-# Your Project Title Here
+# Operatinalizing Machine Learning using Azure
 
-*TODO:* Write an overview to your project.
+*TODO:* The main objective of the this project to deploy machine learning at work. In the project we are training the machine learning model AutoML by Azure. The benefit of AutoML is that it will select the best model from the a lot of machine learning algorithm. It will give best trained model. After getting best best model we will deploy the best model using Azure Kubernate service. We will also consume the model using Swagger
 
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
