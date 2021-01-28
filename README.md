@@ -19,8 +19,11 @@ Once the run of Auto ML is completed we can check the final model and accuracy o
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/Step3.JPG)
 
 ## Step 2: Deploy the best model
-## Step 3: Enable App Insights & Logging
+The best model is selected from Azure Auto ML run. After selecting the best, the model is deployed
+![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/Step5.JPG)
 
+## Step 3: Enable App Insights & Logging
+![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/Step6.JPG)
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
