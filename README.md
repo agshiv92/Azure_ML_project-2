@@ -6,8 +6,7 @@
 *TODO:* The main objective of the this project to deploy machine learning at work. In the project we are training the machine learning model AutoML by Azure. The benefit of AutoML is that it will select the best model from the a lot of machine learning algorithm. It will give best trained model. After getting best best model we will deploy the best model using Azure Kubernate service. We will also consume the model using Swagger
 
 ## Architectural Diagram
-*TODO*: https://github.com/agshiv92/Azure_ML_project-2/blob/main/Azure%20ML%20Project%202.jpg
-
+![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/Azure%20ML%20Project%202.jpg)
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 
