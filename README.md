@@ -8,7 +8,12 @@
 ## Architectural Diagram
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/Azure%20ML%20Project%202.jpg)
 ## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
+## Step 1: Automated ML Experiment
+In the first step we are getting the data to Azure Machine Learning 
+We are giving the job of determing the best model to Azure Auto ML 
+Once the run of Auto ML is completed we can check the final model and accuracy of the model 
+## Step 2: Deploy the best model
+## Step 3: Enable App Insights & Logging
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
