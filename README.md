@@ -1,6 +1,6 @@
 # Operatinalizing Machine Learning using Azure
 
-*TODO:* The main objective of the this project to deploy machine learning at work. In the project we are training the machine learning model AutoML by Azure. The benefit of AutoML is that it will select the best model from the a lot of machine learning algorithm. It will give best trained model. After getting best best model we will deploy the best model using Azure Kubernate service. We will also consume the model using Swagger
+The main objective of the this project to deploy machine learning at work. In the project we are training the machine learning model AutoML by Azure. The benefit of AutoML is that it will select the best model from the a lot of machine learning algorithm. It will give best trained model. After getting best best model we will deploy the best model using Azure Kubernate service. We will also consume the model using Swagger
 
 ## Architectural Diagram
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/Azure%20ML%20Project%202.jpg)
@@ -43,8 +43,7 @@ After completion of pipeline run it is also deployed and it can be consumed usin
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/15.JPG)
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/16.JPG)
 ## Screen Recording
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/_9oU2V9Hs98 "Video Title")
-Please click here for screen recording
+[Screencast](https://youtu.be/_9oU2V9Hs98 "Screencast")
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
