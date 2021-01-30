@@ -42,13 +42,14 @@ Here we can see the Pipeline section in Azure Machine Learning studio:
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/ps.JPG)
 
 After completion of pipeline run it is also deployed and it can be consumed using enpoints 
+![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/15.JPG)
 
-![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/14.JPG)
 Bankingmarketing dataset with AutoML module:
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/ba.JPG)
 Run Details Widget:
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/13.JPG)
-![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/15.JPG)
+![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/14.JPG)
+
 Published Pipeline Overview:
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/19.JPG)
 ## Screen Recording
