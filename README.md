@@ -43,7 +43,7 @@ After completion of pipeline run it is also deployed and it can be consumed usin
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/15.JPG)
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/16.JPG)
 ## Screen Recording
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://studio.youtube.com/video/_9oU2V9Hs98 "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/_9oU2V9Hs98 "Video Title")
 Please click here for screen recording
 
 ## Standout Suggestions
