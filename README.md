@@ -22,7 +22,7 @@ The best model is selected from Azure Auto ML run. After selecting the best, the
 After selecting the best model, we are deploying the model using Azure Container Instance. 
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/5.JPG)
 ## Step 3: Enable App Insights & Logging
-Sometimes the deployed may get some issue in production hence we are enabling application insights logs by enabling application insights
+We choose the best model for deployment and enable "Authentication" while deploying the model using Azure Container Instance (ACI). The executed code in logs.py enables Application Insights. "Application Insights enabled" is disabled before executing logs.py.
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/6.JPG)
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/7.JPG)
 ## Step 4: Swagger Documentation 
