@@ -38,10 +38,12 @@ Although there are multiple way to consume deployed model.Here we are using pyth
 ## Step 5: Pipeline 
 Pipeline is very important for automation of machine learning task. We are creating pipeling for training of our model using jupyter notebook
 Here we can see the Pipeline section in Azure Machine Learning studio:
+![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/ps.JPG)
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/13.JPG)
 After completion of pipeline run it is also deployed and it can be consumed using enpoints 
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/14.JPG)
 Bankingmarketing dataset with AutoML module:
+![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/ba.JPG)
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/15.JPG)
 Published Pipeline Overview:
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/19.JPG)
