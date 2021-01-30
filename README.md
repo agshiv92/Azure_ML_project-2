@@ -46,4 +46,5 @@ After completion of pipeline run it is also deployed and it can be consumed usin
 [Screencast](https://youtu.be/_9oU2V9Hs98 "Screencast")
 
 ## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+We can enable deep learning model in Azure Auto ML. Sometimes deep learning model can perform better in comparison to existing machine learning model
+We can also increase the time for exit or we can change cross validation methods
