@@ -54,7 +54,7 @@ Run Details Widget:
 Published Pipeline Overview:
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/19.JPG)
 ## Screen Recording
-[Screencast](https://youtu.be/_9oU2V9Hs98 "Screencast")
+[Screencast](https://youtu.be/bgR3VJ20VH8 "Screencast")
 
 ## Standout Suggestions
 We can enable deep learning model in Azure Auto ML. Sometimes deep learning model can perform better in comparison to existing machine learning model
