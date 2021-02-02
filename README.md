@@ -24,6 +24,7 @@ After selecting the best model, we are deploying the model using Azure Container
 ## Step 3: Enable App Insights & Logging
 We choose the best model for deployment and enable "Authentication" while deploying the model using Azure Container Instance (ACI). The executed code in logs.py enables Application Insights. "Application Insights enabled" is disabled before executing logs.py.
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/6.JPG)
+![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/22.JPG)
 ![alt text](https://github.com/agshiv92/Azure_ML_project-2/blob/main/7.JPG)
 ## Step 4: Swagger Documentation 
 As our machine learning model is taking input in json, swagger documentation can help us to understand the input and output of deployed machine model. The latest version of swagger was downloaded using swagger.sh and python server was run on local server. We have used swagger.json file proived my Azure after deploying the machine learning model
